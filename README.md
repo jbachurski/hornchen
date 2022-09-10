@@ -18,9 +18,13 @@ Screen scrolling. Minimap.
 
 <img src="https://user-images.githubusercontent.com/25066148/189498660-e0a8ead7-0c9f-4bba-9d10-16d9fe16ec43.png" width="500"/> <img src="https://user-images.githubusercontent.com/25066148/189498760-b80ce2e4-7771-4f51-a739-ba26d45c1406.png" width="500"/>
 
-Combat (particles!!). Console (with a Python REPL).
+Combat (particles!!). Also a boomerang!
 
-<img src="https://user-images.githubusercontent.com/25066148/189498848-f7c995bb-99b3-48c8-9a01-7c1156a5caf1.png" width="500"/> <img src="https://user-images.githubusercontent.com/25066148/189498948-511ddb1c-823e-433d-b588-5d3f8e46001b.png" width="500"/>
+<img src="https://user-images.githubusercontent.com/25066148/189498848-f7c995bb-99b3-48c8-9a01-7c1156a5caf1.png" width="500"/> <img src="https://user-images.githubusercontent.com/25066148/189499043-6932a214-f148-4b80-ae5d-493457bc2ecb.png" width="500"/>
+
+Console (with a Python REPL).
+
+<img src="https://user-images.githubusercontent.com/25066148/189498948-511ddb1c-823e-433d-b588-5d3f8e46001b.png" width="500"/>
 
 The assets are based on a free alpha of an old game called Desktop Dungeons.
 
