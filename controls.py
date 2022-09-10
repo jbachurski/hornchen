@@ -17,20 +17,22 @@ class Key:
 
 class KeyboardState:
     def __init__(self, pressed_keys):
-        self.pressed_keys = list(pressed_keys)
+        self.pressed_keys = pressed_keys
+        self.overwrites = {}
 
     def __getitem__(self, key):
         if isinstance(key, Key):
-            return any(self.pressed_keys[v] for v in key.values)
+            return any(self.overwrites.get(v, self.pressed_keys[v])
+                       for v in key.values)
         else:
-            return self.pressed_keys[key]
+            return self.overwrites.get(key, self.pressed_keys[key])
 
     def __setitem__(self, key, value):
         if isinstance(key, Key):
             for v in key.values:
-                self.pressed_keys[v] = value
+                self.overwrites[v] = value
         else:
-            self.pressed_keys[key] = value
+            self.overwrites[key] = value
 
 
 

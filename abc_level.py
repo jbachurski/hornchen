@@ -9,7 +9,7 @@ class SpriteContainer(list):
         self.setchange()
 
     def setchange(self):
-        self.last_changed = time.clock()
+        self.last_changed = time.time()
 
     def append(self, *args, **kwargs):
         super().append(*args, **kwargs)
