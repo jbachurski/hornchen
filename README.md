@@ -1,5 +1,29 @@
 # Hornchen
 
+## Description
+
+*This is a project originally developed in 2017-2018, when I was in middle school.*
+
+Unfortunately, the game was never finished. I am however proud of how much different mechanisms were implemented on the basis of rogue object oriented programming.
+
+Main menu. Start of game.
+
+<img src="https://user-images.githubusercontent.com/25066148/189498445-ecb6456e-8824-4ba9-bcd7-f19771f59b9f.png" width="500"/> <img src="https://user-images.githubusercontent.com/25066148/189498476-a73f5e52-7fac-4549-969b-ed4a78c196f4.png" width="500"/>
+
+Inventory. Spell tree.
+
+<img src="https://user-images.githubusercontent.com/25066148/189498597-76926b03-e30a-4dc9-a2cd-f2de40f9692b.png" width="500"/> <img src="https://user-images.githubusercontent.com/25066148/189498637-f05e7037-68c1-4f4a-aacd-1b7bcf45de3f.png" width="500"/>
+
+Screen scrolling. Minimap.
+
+<img src="https://user-images.githubusercontent.com/25066148/189498660-e0a8ead7-0c9f-4bba-9d10-16d9fe16ec43.png" width="500"/> <img src="https://user-images.githubusercontent.com/25066148/189498760-b80ce2e4-7771-4f51-a739-ba26d45c1406.png" width="500"/>
+
+Combat (particles!!). Console (with a Python REPL).
+
+<img src="https://user-images.githubusercontent.com/25066148/189498848-f7c995bb-99b3-48c8-9a01-7c1156a5caf1.png" width="500"/> <img src="https://user-images.githubusercontent.com/25066148/189498948-511ddb1c-823e-433d-b588-5d3f8e46001b.png" width="500"/>
+
+The assets are based on a free alpha of an old game called Desktop Dungeons.
+
 ## Full description - Polish
 
 ### Wstęp
